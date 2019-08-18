@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: word-server
+Implementation-Version: 1.0.0
+Built-By: yongyong
+Implementation-Vendor-Id: com.jynn.mesh
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/word-server
+Created-By: Maven Integration for Eclipse
+
